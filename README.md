@@ -1,5 +1,5 @@
 # powershell-tools
-A collection of PowerShell scripts to make administration easier
+A collection of PowerShell scripts to make server administration easier
 
 ##Exchange Scripts
 ###Create Sequential Public Folders
