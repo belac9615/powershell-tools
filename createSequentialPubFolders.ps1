@@ -1,5 +1,8 @@
-﻿# This script is used to create sequentially numbered Public Folders on Exchange
+﻿##  CREATE SEQUENTIAL PUBLIC FOLDERS
+# Purpose: Used to create sequentially numbered Public Folders on Exchange
 # It has been tested with Exchange 2010
+# Author: Caleb Angelino
+##
 
 $Path = read-host "Please enter the path with a trailing \"
 # If you want to script your path, comment out the above line and modify below
