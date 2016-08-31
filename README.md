@@ -1,4 +1,4 @@
-# powershell-tools
+# Powershell-tools
 A collection of PowerShell scripts to make server administration easier
 
 ##Exchange Scripts
